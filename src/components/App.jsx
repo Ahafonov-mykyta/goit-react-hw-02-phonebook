@@ -66,7 +66,7 @@ export default class App extends React.Component {
           </li>
         );
       }
-      return;
+      return null;
     });
   };
 
