@@ -49,7 +49,6 @@ export default class ContactForm extends React.Component {
             />
           </label>
           <label >
-        
             Number
             <br />
             <input
